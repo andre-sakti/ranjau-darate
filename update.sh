@@ -130,6 +130,7 @@ rm -rf menu-ss
 rm -rf menu-socks
 rm -rf menu-bckp
 rm -rf cek-bandwidth
+rm -rf limitspeed
 
 # download menu
 cd /usr/bin
